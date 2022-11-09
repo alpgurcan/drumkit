@@ -1,3 +1,3 @@
 # DRUMKIT
-JS30 - Drumkit <hr>
+JS30 - Drumkit <br>
 Will be updated with new ideas
